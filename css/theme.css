@@ -543,6 +543,10 @@ ul.sponsors {
 
 #footer a img {
 	margin-top: 40px;
+	border-radius: 50%
+	/* width: ; Set your desired width */
+    /* height: 50px; Set your desired height */
+    /* object-fit: cover; */
 }
 
 #footer p,
